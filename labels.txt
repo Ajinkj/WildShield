@@ -1,0 +1,13 @@
+0 Dog
+1 Bandicoot
+2 Elephant
+3 Fox
+4 Indian crested porcupine
+5 Monkey
+6 Peacock
+7 Pig-Boar
+8 Tiger
+9 Cow
+10 goat
+11 hen
+12 Human
